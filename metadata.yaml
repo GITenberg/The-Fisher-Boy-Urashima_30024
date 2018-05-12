@@ -1,0 +1,36 @@
+_repo: The-Fisher-Boy-Urashima_30024
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Eitaku
+    alias: Sensai Eitaku
+    birthdate: 1843
+    deathdate: 1890
+    gutenberg_agent_id: '28346'
+    url: http://www.gutenberg.org/2009/agents/28346
+  translator:
+    agent_name: Chamberlain, Basil Hall
+    alias: Chamberlain, B. H. (Basil Hall)
+    birthdate: 1850
+    deathdate: 1935
+    gutenberg_agent_id: '947'
+    url: http://www.gutenberg.org/2009/agents/947
+    wikipedia: http://en.wikipedia.org/wiki/Basil_Hall_Chamberlain
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2009-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Folklore -- Japan'
+- !lcsh 'Fairy tales'
+title: The Fisher-Boy Urashima
+url: http://www.gutenberg.org/ebooks/30024
